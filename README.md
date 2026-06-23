@@ -1,6 +1,6 @@
 # CNSS — Wound Plaster Advisor
 
-A pharmaceutical decision-support web application that guides users through a clinical wound assessment and recommends the most suitable plaster type, including plaster size and purulent (discharge) grading.
+A pharmaceutical decision-support web application that guides users through a clinical wound assessment and recommends the most suitable plaster type, including plaster size and purulent grading.
 
 ---
 
